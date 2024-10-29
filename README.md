@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on data Quality and Governance
+- 🔭 I’m currently working on Data Quality and Governance
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on infoShere Academy
 - 🤔 I’m looking for help with learning Python
